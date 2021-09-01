@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b3cf7ad4c60c0da4ab7440ee58966b25
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - reticleTarget: {fileID: 21300000, guid: 5c8f7a7dd34f79343be5e37d6bbbfab5, type: 3}
+  - reticleSelection: {instanceID: 0}
+  - debugPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

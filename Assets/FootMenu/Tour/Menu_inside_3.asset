@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 668783209a0bc1d4587760b27b22038c, type: 3}
+  m_Name: Menu_inside_3
+  m_EditorClassIdentifier: 
+  degrees: 1
+  iconFacingPlayer: 0
+  Elements:
+  - {fileID: 11400000, guid: 1dec405bd9b50374396e16dcce82c005, type: 2}
+  - {fileID: 11400000, guid: 1dec405bd9b50374396e16dcce82c005, type: 2}
+  - {fileID: 11400000, guid: 9f08da39da7423e40b5274c5cd0d5889, type: 2}
+  - {fileID: 11400000, guid: fa9905113772398479ec416e33e3b189, type: 2}
+  - {fileID: 11400000, guid: 7a3a591a613d64d4e834f8623a2526ad, type: 2}
+  - {fileID: 11400000, guid: 1dec405bd9b50374396e16dcce82c005, type: 2}
+  - {fileID: 11400000, guid: 1dec405bd9b50374396e16dcce82c005, type: 2}
+  - {fileID: 11400000, guid: 1dec405bd9b50374396e16dcce82c005, type: 2}
